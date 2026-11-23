@@ -1,0 +1,7 @@
+node_modules/
+tools/
+private-local/
+output/
+.playwright-cli/
+AGENTS.md
+*.log
